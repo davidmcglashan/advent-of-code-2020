@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+advent of code.sublime-project
+*.sublime-workspace
