@@ -1,5 +1,5 @@
 joltages = []
-with open('10.txt') as f:
+with open('day 10 input.txt') as f:
     lines = f.readlines()
 
     for line in lines:

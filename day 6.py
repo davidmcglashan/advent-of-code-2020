@@ -1,7 +1,7 @@
 partOneTotal = 0
 partTwoTotal = 0
 
-with open('6.txt') as f:
+with open('day 6 input.txt') as f:
     lines = f.readlines()
     partOneGroup = set()
     partTwoGroup = set()

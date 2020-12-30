@@ -16,7 +16,7 @@ def walk( parent ):
 
     return childCount
 
-with open('7.txt') as f:
+with open('day 7 input.txt') as f:
     lines = f.readlines()
 
     # part two is a more conventional travel down the tree problem, but we need to count the numbers this time!

@@ -65,7 +65,7 @@ def partTwoEvaluate( rec ):
 	return 1
 
 # main loop. Iterate the lines of the input file.
-with open('4.txt') as f:
+with open('day 4 input.txt') as f:
 	lines = f.readlines()
 		
 	# Part one variables: Valid records have 8 colons, or 7 with the "cid:"" record also being present

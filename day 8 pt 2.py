@@ -35,7 +35,7 @@ def find( lines ):
             return True
 
 # load the data into the lines array
-with open('8.txt') as f:
+with open('day 8 input.txt') as f:
     lines = f.readlines()
     i = 0
 

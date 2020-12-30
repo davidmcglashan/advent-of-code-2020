@@ -1,4 +1,4 @@
-with open('2.txt') as f:
+with open('day 2 input.txt') as f:
     lines = f.readlines()
     ptOneValid = 0
     ptTwoValid = 0

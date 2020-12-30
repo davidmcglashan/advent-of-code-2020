@@ -1,6 +1,6 @@
 allIds = set()
 
-with open('5.txt') as f:
+with open('day 5 input.txt') as f:
     lines = f.readlines()
     mx = 0
     mn = 999

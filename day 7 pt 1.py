@@ -8,7 +8,7 @@ def walk( colour ):
 			path.add( parent )
 			walk( parent )
 
-with open('7.txt') as f:
+with open('day 7 input.txt') as f:
     lines = f.readlines()
 
     # ignoring the numbers, reexpress the txt file as a dictionary containing keys to sets. Since the

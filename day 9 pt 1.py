@@ -9,7 +9,7 @@ def matches( bank, find ):
 
 bank = []
 
-with open('9.txt') as f:
+with open('day 9 input.txt') as f:
     lines = f.readlines()
 
     for line in lines:

@@ -1,5 +1,5 @@
 def slope( incx=3, incy=1 ):
-	with open('3.txt') as f:
+	with open('day 3 input.txt') as f:
 	    lines = f.readlines()
 	    trees = 0
 	    x = 0
